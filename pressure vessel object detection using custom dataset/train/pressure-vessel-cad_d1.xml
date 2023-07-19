@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pressure-vessel-cad_d1.jpeg</filename>
+	<path>/my-project-name/pressure-vessel-cad_d1.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>nozzle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>78</ymin>
+			<xmax>172</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nozzle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>224</ymin>
+			<xmax>180</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>
